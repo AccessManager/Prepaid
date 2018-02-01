@@ -1,4 +1,4 @@
-@extends("Base::layout");
+@extends("Base::layout")
 @section("header")
     Prepaid Vouchers
 @endsection
